@@ -61,7 +61,7 @@
         <bouncy-castle-fips.version>1.0.7</bouncy-castle-fips.version>
         <reflections.version>0.10.2</reflections.version>
         <guice.version>5.1.0</guice.version>
-        <rxjava.version>3.1.5</rxjava.version>
+        <rxjava.version>3.1.9</rxjava.version>
         <okhttp.version>4.12.0</okhttp.version>
         <vertx.version>4.5.3</vertx.version>
         <unbounded-ldap.version>5.1.4</unbounded-ldap.version>
