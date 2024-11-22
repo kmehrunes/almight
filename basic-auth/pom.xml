@@ -57,7 +57,7 @@
         <dependency>
             <groupId>org.jetbrains.kotlin</groupId>
             <artifactId>kotlin-stdlib</artifactId>
-            <version>1.6.0</version> <!-- older versions had some vulnerabilities -->
+            <version>1.9.25</version> <!-- older versions had some vulnerabilities -->
         </dependency>
 
         <!-- used to verify the TOTP in tests using a different library -->
