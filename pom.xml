@@ -67,7 +67,7 @@
         <unbounded-ldap.version>5.1.4</unbounded-ldap.version>
         <javax-persistence.version>2.2</javax-persistence.version>
         <vavr.version>0.10.4</vavr.version>
-        <slf4j.version>2.0.0</slf4j.version>
+        <slf4j.version>2.0.16</slf4j.version>
         <totp.version>1.0</totp.version>
         <onetime.version>2.1.1</onetime.version>
 
