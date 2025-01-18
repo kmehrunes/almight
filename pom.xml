@@ -69,7 +69,7 @@
         <vavr.version>0.10.4</vavr.version>
         <slf4j.version>2.0.0</slf4j.version>
         <totp.version>1.0</totp.version>
-        <onetime.version>2.1.1</onetime.version>
+        <onetime.version>2.1.2</onetime.version>
 
         <surefire.version>3.0.0-M3</surefire.version>
         <junit.version>5.5.1</junit.version>
